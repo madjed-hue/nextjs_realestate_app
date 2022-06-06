@@ -42,7 +42,7 @@ const PropertyDetails = ({ propertyDetails }) => {
         <Text fontSize="lg" marginBottom="2" fontWeight="bold">
           {propertyDetails.title}
         </Text>
-        <Text lineHeight="2" color="gray.600">
+        <Text lineHeight="2" color="gray.500">
           {propertyDetails.description}
         </Text>
       </Box>
